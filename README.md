@@ -1,18 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**zhangdeli/zhangdeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Zhang Deli]**, a passionate developer who enjoys building things and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 I’m interested in software development and technology
+* 🌱 Currently learning: **[e.g., Python, Web Development, AI, etc.]**
+* 🎯 Goal: Become a better developer every day
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zhangdeli&show_icons=true&theme=onedark)
+## 🛠️ Tech Stack
+
+* Languages: **[e.g., Python, JavaScript]**
+* Tools: **[e.g., Git, Docker, VS Code]**
+* Frameworks: **[e.g., React, Node.js]**
+
+## 📫 Contact Me
+
+* GitHub: [https://github.com/zhangdeli](https://zhangdeli.github.io/)
+
+---
+
+⭐️ Feel free to check out my repositories and give a star if you like them!
+
