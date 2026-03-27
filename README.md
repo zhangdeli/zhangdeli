@@ -16,7 +16,7 @@ I'm **[Zhang Deli]**, a passionate developer who enjoys building things and lear
 
 ## 📫 Contact Me
 
-* GitHub: [https://github.com/zhangdeli](https://zhangdeli.github.io/)
+* GitHub: [https://zhangdeli.github.io/](https://zhangdeli.github.io/)
 
 ---
 
