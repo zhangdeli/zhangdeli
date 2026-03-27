@@ -5,14 +5,14 @@ I'm **[Zhang Deli]**, a passionate developer who enjoys building things and lear
 ## 🚀 About Me
 
 * 💻 I’m interested in software development and technology
-* 🌱 Currently learning: **[e.g., Python, Web Development, AI, etc.]**
+* 🌱 Currently learning: **[Python, Web Development, Vibe Coding]**
 * 🎯 Goal: Become a better developer every day
 
 ## 🛠️ Tech Stack
 
-* Languages: **[e.g., Python, JavaScript]**
-* Tools: **[e.g., Git, Docker, VS Code]**
-* Frameworks: **[e.g., React, Node.js]**
+* Languages: **[Python, JavaScript]**
+* Tools: **[Git, Docker, VS Code]**
+* Frameworks: **[React, Node.js]**
 
 ## 📫 Contact Me
 
